@@ -3,7 +3,6 @@ title: "Project 1 Exploratory Data Analysis"
 output: html_document
 ---
 
-# Group 1 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
