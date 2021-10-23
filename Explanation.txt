@@ -1,0 +1,15 @@
+1. Avg. waiting time
+The chart above shows the states with shortest waiting time 
+to be approved. Massachusetts,Maine, Indiana and DC had the shortest waiting time. 
+It took only 2.8 years for those states to be approved for their patents 
+application. India was also in the top place that had the shortest waiting interval,
+which is 3 years. 
+The interesting thing is that although California, NYC, ad Texas had the most approved
+patents, the waiting interval of these states was not among the shortest ones. 
+
+2.Patents Trending
+The number of patents granted in the U.S stably increased through years.
+In the interval of 2017-2018, number of patents slightly decreased. However, after 2018,
+the number of patents increased significantly.
+In India, we can see that not many patents are granted every year. The total number of patents
+approved to 2019 was only 14 patents. 
