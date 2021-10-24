@@ -14,18 +14,29 @@ knitr::opts_chunk$set(echo = TRUE)
 knitr::include_graphics("1_Avgwt.png")
 
 ```
-
-From the graph, we can see that India has an average waiting time of 3 months, being on the slower side of things, but not the slowest.
+<br />
+The chart above shows the states with shortest waiting time 
+to be approved. Massachusetts, Maine, Indiana and DC had the shortest waiting time. 
+It took only 2.8 years for those states to be approved for their patents 
+application. India was also among the top that had the shortest waiting interval,
+which is 3 years. 
+The interesting thing is that although California, NYC, ad Texas had the most approved
+patents, the waiting interval of these states was not among the shortest ones. 
 
 ```{r,  echo=FALSE}
 knitr::include_graphics("2_top5states.png")
 
 ```
+<br /><br />
 California has significantly more patents compared to other states.
 
 ```{r,  echo=FALSE}
 knitr::include_graphics("3_numpats.png")
 
 ```
-
-We can see from the visualization that not many patents are granted in India every year, with only 14 submitted in 2019. Meanwhile, the US has been slowly rising in the number patents, growing up to 1,669 patents granted in 2019.
+<br />
+The number of patents granted in the U.S stably increased through years.
+In the interval of 2017-2018, number of patents slightly decreased. However, after 2018,
+the number of patents increased significantly.
+In India, we can see that not many patents are granted every year. The total number of patents
+approved to 2019 was only 14 patents. 
