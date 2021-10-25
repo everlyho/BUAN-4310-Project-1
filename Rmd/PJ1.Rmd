@@ -26,7 +26,7 @@ knitr::include_graphics("approvalfrequency.png")
 
 ```
 <br />
-We can see that most patents are frequently approved within the 1-3 years period.
+Most patents are approved in 2 years. A lot of them are approved in 1 and 3 years as well.
 ```{r,  echo=FALSE}
 knitr::include_graphics("2_top5states.png")
 
