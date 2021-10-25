@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Exploratory Data Analysis
 
 ```{r,  echo=FALSE}
-knitr::include_graphics("1_Avgwt.png")
+knitr::include_graphics("1_top10.png")
 
 ```
 <br />
@@ -20,7 +20,7 @@ to be approved. Massachusetts, Maine, Indiana and DC had the shortest waiting ti
 It took only 2.8 years for those states to be approved for their patents 
 application. India was also among the top that had the shortest waiting interval,
 which is 3 years. 
-The interesting thing is that although California, NYC, ad Texas had the most approved
+The interesting thing is that although California, NYC, and Texas had the most approved
 patents, the waiting interval of these states was not among the shortest ones. 
 
 ```{r,  echo=FALSE}
@@ -31,7 +31,7 @@ knitr::include_graphics("2_top5states.png")
 California has significantly more patents compared to other states.
 
 ```{r,  echo=FALSE}
-knitr::include_graphics("3_numpats.png")
+knitr::include_graphics("3_pattrending.png")
 
 ```
 <br />
