@@ -75,4 +75,4 @@ barplot(table(patent_data$grantyear),(patent_data$applyear))
 plot((table(patent_data$ee_role)),type="p")
 
 #Histogram
-hist(patent_data$at,col="orange",main="APPROVAL TIME",xlab="at")
+hist(patent_data$at,col="orange",main="Patent Approval Time",xlab="Time to Approval (years)",ylab="Number of patents approved")
